@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Lara-Arnason
-- 👀 I’m interested in business applications of AI models
-- 🌱 I’m currently learning how to apply my expertise in prompt engineering to building real-world AI-generated apps
-- 💞️ I’m looking to collaborate on interesting challenges and hackathons
-- 📫 How to reach me lara [dot] arnason+github [at] gmail [dot] com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am weirdly committed to interoperability
+- Books. Boats. Building AI apps.
+- @Lara-Arnason
+- I’m looking to collaborate on interesting challenges, especially AI agent evaluation techniques and fun hackathons
+- How to reach me lara [dot] arnason+github [at] gmail [dot] com
+- Fun fact: I think facts are fun.
 
 <!---
 Lara-Arnason/Lara-Arnason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
